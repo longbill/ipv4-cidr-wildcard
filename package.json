@@ -1,0 +1,11 @@
+{
+  "name": "ipv4-cidr-wildcard",
+  "version": "1.0.0",
+  "description": "change 10.0.0.0/24 CIDR string into 10.0.0.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chunlong",
+  "license": "MIT"
+}
