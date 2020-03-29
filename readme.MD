@@ -2,7 +2,7 @@
 
 ## Install
 
-	`npm install ipv4-cidr-wildcard`
+`npm install ipv4-cidr-wildcard`
 
 ## Examples
 
